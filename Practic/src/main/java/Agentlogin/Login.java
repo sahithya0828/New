@@ -35,8 +35,8 @@ public void moblie (String nmbr) {
 		password.sendKeys(pswd);
 	}
 	
-	
-	
+	public void cap (){
+	}
 	
 	
 	
