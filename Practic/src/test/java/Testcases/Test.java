@@ -46,7 +46,8 @@ public class Test extends Login {
 	
 	
 	
-	
+	public void end (){
+	}
 	
 	
 	
